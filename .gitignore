@@ -3,3 +3,5 @@ kaggle.json
 /.ipynb_checkpoints/
 venv
 requirements.txt
+.env
+.idea/
