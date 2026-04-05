@@ -1,3 +1,5 @@
 kaggle.json
 /uci-poker-hand-dataset/
 /.ipynb_checkpoints/
+venv
+requirements.txt
